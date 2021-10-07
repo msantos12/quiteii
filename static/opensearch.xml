@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>QuiteJá</ShortName>
+    <LongName>QuiteJá</LongName>
+    <Description>Encontrar dívidas na QuiteJá</Description>
+    <Tags>quiteja quitar</Tags>
+    <Url type="text/html" template="https://quiteja.com.br/negociar?document={searchTerms}&amp;utm_source=opensearch"/>
+    <Language>pt-br</Language>
+    <Developer>GorillasCode Software Design</Developer>
+    <AdultContent>false</AdultContent>
+    <InputEncoding>UTF-8</InputEncoding>
+
+    <Image height="16" width="16" type="image/png">
+        https://quiteja.com.br/static/images/icons/favicon-16x16.png
+    </Image>
+
+    <Image height="32" width="32" type="image/png">
+        https://quiteja.com.br/static/images/icons/favicon-32x32.png
+    </Image>
+</OpenSearchDescription>
